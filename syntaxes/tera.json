@@ -2,7 +2,8 @@
   "name": "Tera Templates",
   "scopeName": "source.tera",
   "fileTypes": [
-    "html"
+    "html",
+    "html.tera"
   ],
   "$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
   "foldingStartMarker": "({%\\s*(block|filter|for|if|macro|raw))",
